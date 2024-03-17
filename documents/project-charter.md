@@ -27,7 +27,7 @@
   - [Summary](#summary)
   - [Project Overview](#project-overview)
   - [Project Goals](#project-goals)
-  - [Stakeholders](#stakeholders)
+  - [Customers](#customers)
     - [For version 1.0](#for-version-10)
     - [For future versions](#for-future-versions)
   - [Deliverables and Milestones](#deliverables-and-milestones)
@@ -52,7 +52,7 @@ To achieve these goals, this project will focus on the following tasks:
 - Create accessible documentation specific to each exercise.
 - Make the whole system fun enough to keep users interested.
 
-## Stakeholders
+## Customers
 ### For version 1.0
 
 | Stakeholder | Description |
