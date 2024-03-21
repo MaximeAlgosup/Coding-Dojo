@@ -87,7 +87,7 @@ The project is intended as a learning platform, but it is not intended to replac
 | --- | --- | --- |
 | 1 | Lucas logs in to the app. | Lucas is redirected to the home page. |
 | 2 | Lucas selects the first exercise. | Lucas is redirected to the exercise page. |
-| 3 | Lucas reads rules and gives documentation. | Lucas understands the exercise. |
+| 3 | Lucas reads rules and and the given documentation. | Lucas understands the exercise. |
 | 4 | Lucas does the exercise. | Lucas follows the instructions and finishes the exercise. |
 | 5 | Lucas gets a reward. | Lucas is happy and motivated to continue. |
 
@@ -139,7 +139,7 @@ The project is intended as a learning platform, but it is not intended to replac
 
 | Step | Description | Expected Result |
 | --- | --- | --- |
-| 1 | John logs in to the app. | John is redirected to the home page. |
+| 1 | John logs into the app. | John is redirected to the home page. |
 | 2 | John selects his profile. | John is redirected to his profile page. |
 | 3 | John can see his progress. | John can see his progress through statistics and diagrams. |
 
