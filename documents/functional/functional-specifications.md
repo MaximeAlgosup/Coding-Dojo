@@ -13,7 +13,7 @@
 | Version | Date | Author | Description |
 | --- | --- | --- | --- |
 | 0.1 | 2024-03-17 | Maxime CARON | Initial draft |
-| 1.0 | 2024-03-18 | Maxime CARON | First finished version |
+| 1.0 | 2024-03-24 | Maxime CARON | First finished version |
 
 
 ## Summary
@@ -40,7 +40,6 @@
   - [UX/UI](#uxui)
     - [User Experience](#user-experience)
     - [User Interface](#user-interface)
-  - [| Challenge | The challenge page will contain the challenge. | - Rules and documentation- Exercise- Comments |](#-challenge--the-challenge-page-will-contain-the-challenge----rules-and-documentation--exercise--comments-)
   - [Main features](#main-features)
     - [Exercises](#exercises)
     - [Documentation](#documentation)
@@ -155,9 +154,11 @@ The main constraints are the following:
 ## UX/UI
 
 ### User Experience
+
 User experience is a critical part of the project. The app must be easy to use and understand. The user must be able to navigate through the app without any difficulty. The app must be accessible from any web browser.
 
 ### User Interface
+
 **Graphic Charter:**
 The style must respect the following graphic charter: [here](../graphic-charter/graphic-charter.md)
 
@@ -170,10 +171,12 @@ The app will contain the following pages:
 | Profile | The profile page will contain the user's progress. | - User information<br>- Statistics and diagrams<br>- Rewards |
 | Challenges category | The challenges category page will contain the list of all the challenges. | - List of challenges |
 | Challenge | The challenge page will contain the challenge. | - Rules and documentation<br>- Exercise<br>- Comments |
+
 ---
 You will find the mockups of the app [here](../graphic-charter/mockups.png)
 
 ## Main features
+
 ### Exercises
 The app will contain three kinds of exercises:
 - **Code correction**: Following the instructions, the user will have to correct a piece of code and execute it to get a password used to validate the exercise.
