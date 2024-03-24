@@ -13,7 +13,8 @@
 | Version | Date | Author | Description |
 | --- | --- | --- | --- |
 | 0.1 | 2024-03-17 | Maxime CARON | Initial draft |
-| 1.0 | 2024-03-24 | Maxime CARON | First finished version |
+| 1.0 | 2024-03-18 | Maxime CARON | First finished version |
+| 1.1 | 2024-03-24 | Maxime CARON | Correct summary |
 
 
 ## Summary
