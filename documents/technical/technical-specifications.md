@@ -6,7 +6,7 @@
 | --- | --- |
 | Document Owner | Maxime CARON |
 | Creation Date | 2024-03-24 |
-| Last Updated | 2024-03-24 |
+| Last Updated | 2024-03-26 |
 | Document Name | Technical Specifications - Coding Dojo |
 
 **Version History:**
@@ -62,14 +62,13 @@ The application will be divided into three main parts:
 The server hardware is a virtual machine with a Intel core i5-6300HQ processor, 32 GB of RAM, and 2TB of storage.
 
 **Software:**<br>
-The server operating system is Kubernetes. It is a container orchestration system that manages the deployment, scaling, and operation of application containers. It will work with Docker, a containerization platform that packages applications and their dependencies into isolated containers.
+The server operating system is Linux server. It is a family of open-source Unix-like operating systems based on the Linux kernel. The server will host the application and the database. It will also be used to host the Kubernetes cluster, and Docker containers.
 
 ### Database
-
 The database is MySQL. It is a relational database management system based on SQL – Structured Query Language. The application will use it to store and manage data.
 
 ### App
-The application is a web application. It will be developed with Ruby on Rails, a web application framework written in Ruby. It will use HTML, SCSS, and JavaScript for the front-end.
+The application is a web application. It will be developed with Go with Beego framework.
 
 ## Exercises
 The application will contain exercises to help users learn algorithmic concepts. The exercises will be divided into different type:
@@ -150,7 +149,8 @@ To ensure the success of the project, the team will follow the following plan fo
 | Kubernetes | An open-source container orchestration system for automating application deployment, scaling, and management. |
 | Docker | A platform for developing, shipping, and running applications in containers. |
 | MySQL | An open-source relational database management system based on SQL – Structured Query Language. |
-| Ruby on Rails | A web application framework written in Ruby. |
+| Go | An open-source programming language that makes it easy to build simple, reliable, and efficient software. |
+| Beego | A web application framework for the Go programming language. |
 | REST API | A set of rules that developers follow when they create their application. |
 | Linux | A family of open-source Unix-like operating systems based on the Linux kernel. |
 | Code Correction | An exercise that presents a piece of code with errors. The user has to identify and correct the errors. |
